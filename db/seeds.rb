@@ -1,0 +1,5 @@
+Greeting.create!(message: 'Welcome to the future!')
+Greeting.create!(message: 'Greetings, traveler!')
+Greeting.create!(message: 'Hello, world changer!')
+Greeting.create!(message: 'Hi there, innovator!')
+Greeting.create!(message: 'Good day, game changer!')
