@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "hello-react-rails-app",
   "scripts": {
     "build": "webpack --config webpack.config.js --watch"
   },
